@@ -1,0 +1,23 @@
+{
+  "name": "roots-autoprefixer",
+  "version": "1.0.0",
+  "description": "An extension to jenius/roots allowing autoprefixing and designed to be language agnostic.",
+  "main": "roots-autoprefixer.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:aendrew/roots-autoprefixer.git"
+  },
+  "keywords": [
+    "roots",
+    "autoprefixer"
+  ],
+  "author": "Ændrew Rininsland <aendrew.rininsland@thetimes.co.uk> (http://www.aendrew.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aendrew/roots-autoprefixer/issues"
+  },
+  "homepage": "https://github.com/aendrew/roots-autoprefixer"
+}
